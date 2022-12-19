@@ -1,0 +1,16 @@
+{
+  "name": "google-analytics-4-data-node-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Robert Kemp with help of ChatGPT",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^8.7.0",
+    "request": "^2.88.2"
+  }
+}
